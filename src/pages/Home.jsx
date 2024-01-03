@@ -3,7 +3,7 @@ import React from "react";
 const Home = () =>{
     return(
         <div>
-            Home
+            Home is the best thing you can have
         </div>
     )
 }
